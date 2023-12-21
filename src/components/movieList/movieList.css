@@ -1,14 +1,22 @@
+.movie__list1 {
+    /* padding: 0 3rem 3rem 3rem; */
+    margin-left:2.5rem;
+    margin-top:-150px;
+}
 .movie__list {
-    padding: 0 3rem 3rem 3rem;
+    /* padding: 0 3rem 3rem 3rem; */
+    margin-left:2.5rem;
+    margin-top:-150px;
 }
 
 .list__title {
 font-size: 1.75rem;
 margin:  2.5rem;
+color:blue;
 }
 
-.list__cards {
+/* .list__cards {
     display: flex;
     flex-wrap: wrap ;
     justify-content: center;
-}
+} */

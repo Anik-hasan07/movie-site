@@ -143,3 +143,8 @@
     align-items: center;
     justify-content: center;
 }
+.cast{
+    background-color:white;
+    padding:20px;
+    margin-bottom:75px;
+}

@@ -32,7 +32,6 @@
     width: 85%;
     justify-content: flex-end;
     background-image: linear-gradient(rgb(0,0,0,0), rgb(0,0,0,1));
-    opacity: 0;
     transition: opacity .2s;
 }   
 
